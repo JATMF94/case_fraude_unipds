@@ -14,5 +14,5 @@ O material está organizado nas seguintes pastas:
 
 * **`assest`**  — Recursos visuais, imagens e gráficos utilizados na análise e na apresentação: [`[assets]`](https://github.com/JATMF94/case_fraude_unipds/tree/ebfb631ed5061eec06a8d965b46c4020b3a6870d/assets)
 * **`relatórios`** — Relatórios exportados e visualizações consolidadas (como os painéis gerados no Looker Studio / Data Studio): `[INSERIR CAMINHO AQUI]`
-* **`queries`** — Consultas SQL utilizadas no BigQuery para extração, cruzamento, segmentação e cálculo das métricas de fraude: `[INSERIR CAMINHO AQUI]`
+* **`queries`** — Consultas SQL utilizadas no BigQuery para extração, cruzamento, segmentação e cálculo das métricas de fraude: [`[queries]`](https://github.com/JATMF94/case_fraude_unipds/tree/47a901403c2d688db331c556fbe3fefa88dfa0e1/queries)
 * **`apresentação`** — Apresentação executiva com os principais achados, pontos de atenção e recomendações: [`apresentação`](https://github.com/JATMF94/case_fraude_unipds/tree/5880e61d0671c73a1fe8a05e0474471295f96a24/apresenta%C3%A7%C3%A3o)
