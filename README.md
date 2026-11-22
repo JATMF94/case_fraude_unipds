@@ -15,4 +15,4 @@ O material está organizado nas seguintes pastas:
 * **`assest`** *(ou `assets`)* — Recursos visuais, imagens e gráficos utilizados na análise e na apresentação: `[INSERIR CAMINHO AQUI]`
 * **`relatórios`** — Relatórios exportados e visualizações consolidadas (como os painéis gerados no Looker Studio / Data Studio): `[INSERIR CAMINHO AQUI]`
 * **`queries`** — Consultas SQL utilizadas no BigQuery para extração, cruzamento, segmentação e cálculo das métricas de fraude: `[INSERIR CAMINHO AQUI]`
-* **`apresentação`** — Apresentação executiva com os principais achados, pontos de atenção e recomendações: `[INSERIR CAMINHO AQUI]`
+* **`apresentação`** — Apresentação executiva com os principais achados, pontos de atenção e recomendações: `apresentação`
