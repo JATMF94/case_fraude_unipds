@@ -12,7 +12,7 @@ Esta etapa apresenta a visão geral do impacto financeiro da fraude sobre o volu
 * **Perda direta em fraudes:** R$ 547.528,21 (cerca de R$ 547,5 mil)
 * **Taxa atual de fraude da companhia:** 5%
 
-**Imagem / Gráfico:** `[INSERIR CAMINHO DA IMAGEM/GRÁFICO — CENÁRIO ATUAL]`
+**Imagem / Gráfico:** [`[INSERIR CAMINHO DA IMAGEM/GRÁFICO — CENÁRIO ATUAL]`](https://github.com/JATMF94/case_fraude_unipds/blob/69915ed5f4758db6148e5fdc5bd261fbb5dc774f/assets/Percentual%20de%20Fraude)
 
 ---
 
