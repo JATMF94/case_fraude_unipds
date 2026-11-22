@@ -26,7 +26,7 @@ Esta seção avalia o desempenho das versões do modelo comportamental ao longo 
   * `cb_v2.3`: 5,02% de taxa de fraude (4.529 fraudes)
 * **Diagnóstico:** Houve piora na transição de `cb_v2` para `cb_v2.3`, com aumento na taxa de fraude e no volume de ocorrências — indicando possíveis *gaps* de regras ou impacto do aumento de transações, em contraste com a queda anterior de taxa mesmo com crescimento de volume.
 
-**Imagem / Gráfico:** `[INSERIR CAMINHO DA IMAGEM/GRÁFICO — EVOLUÇÃO DO MODELO]`
+**Gráfico:** [`[EVOLUÇÃO DO MODELO]`](https://github.com/JATMF94/case_fraude_unipds/blob/17847997dcbe85789518969aa730d7a0d0c91fa4/assets/Gerac%CC%A7a%CC%83o%20de%20relato%CC%81rios%20do%20Data%20Studio%20-%2021_11_2026%2C%2016_23_Pa%CC%81gina%20sem%20ti%CC%81tulo_Gra%CC%81fico%20de%20linhas-2.png)
 
 ---
 
@@ -37,7 +37,7 @@ Esta etapa examina como as perdas por fraude e o ticket médio se distribuem ent
 * **Categoria líder:** **Automotivo** concentra o maior prejuízo acumulado, com **R$ 153,1 mil** perdidos e taxa acima da média de 5% da companhia.
 * **Ticket médio da fraude em automotivo:** **R$ 65,90**, valor que orienta a necessidade de reforçar regras de prevenção para compras nesse patamar de ticket.
 
-**Imagem / Gráfico:** `[INSERIR CAMINHO DA IMAGEM/GRÁFICO — CONCENTRAÇÃO POR CATEGORIA]`
+**Gráfico:** [`[CONCENTRAÇÃO POR CATEGORIA]`](https://github.com/JATMF94/case_fraude_unipds/blob/17847997dcbe85789518969aa730d7a0d0c91fa4/assets/Gerac%CC%A7a%CC%83o%20de%20relato%CC%81rios%20do%20Data%20Studio%20-%2021_11_2026%2C%2016_23_Gra%CC%81fico%20de%20linhas-2.png)
 
 ---
 
@@ -51,9 +51,9 @@ Esta seção detalha o comportamento da fraude por mercado de atuação, com foc
   * **Estados Unidos:** R$ 6.775,67 em valor perdido, preço médio de R$ 96,80 e taxa de fraude de **3,07%**.
 * **Foco crítico — Automotivo no Brasil:** A categoria apresenta **6,79%** de taxa de fraude e **R$ 121.277** perdidos no mercado brasileiro, superando a média de 5% da companhia e ficando acima das demais categorias locais (que variam entre 5,37% e 5,65%).
 
-**Imagem / Gráfico (Geografia da Fraude):** `[INSERIR CAMINHO DA IMAGEM/GRÁFICO — GEOGRAFIA DA FRAUDE]`
+**Gráfico (Geografia da Fraude):** [`[GEOGRAFIA DA FRAUDE]`](https://github.com/JATMF94/case_fraude_unipds/blob/61d85666c8ed8548cbcb3e7ca24bec679370cf01/assets/Gerac%CC%A7a%CC%83o%20de%20relato%CC%81rios%20do%20Data%20Studio%20-%2021_11_2026%2C%2016_23_Pa%CC%81gina%20sem%20ti%CC%81tulo_Tabela-2.png)
 
-**Imagem / Gráfico (Foco Crítico — Brasil / Automotivo):** `[INSERIR CAMINHO DA IMAGEM/GRÁFICO — CATEGORIA AUTOMOTIVA NO BRASIL]`
+**Gráfico (Foco Crítico — Brasil / Automotivo):** `[CATEGORIA AUTOMOTIVA NO BRASIL]` https://github.com/JATMF94/case_fraude_unipds/blob/17847997dcbe85789518969aa730d7a0d0c91fa4/assets/Gerac%CC%A7a%CC%83o%20de%20relato%CC%81rios%20do%20Data%20Studio%20-%2021_11_2026%2C%2016_23_Pa%CC%81gina%20sem%20ti%CC%81tulo_Gra%CC%81fico%20de%20linhas-3.png
 
 ---
 
@@ -69,7 +69,7 @@ Esta etapa analisa a distribuição da taxa de fraude entre os canais de aquisi�
   * `app_ios`: **4,89%**
 * **Ponto de atenção:** Apesar da proximidade entre os canais, o canal de parceiros puxa a taxa e exige investigação aprofundada do perfil dos fraudadores e diligência quanto a possível envolvimento/conluio operacional.
 
-**Imagem / Gráfico:** `[INSERIR CAMINHO DA IMAGEM/GRÁFICO — CANAL DE VENDA]`
+**Gráfico:** [`[CANAL DE VENDA]`](https://github.com/JATMF94/case_fraude_unipds/blob/17847997dcbe85789518969aa730d7a0d0c91fa4/assets/Gerac%CC%A7a%CC%83o%20de%20relato%CC%81rios%20do%20Data%20Studio%20-%2021_11_2026%2C%2016_23_Pa%CC%81gina%20sem%20ti%CC%81tulo_Gra%CC%81fico%20de%20barras.png)
 
 ---
 
@@ -81,7 +81,7 @@ Esta seção avalia a eficácia da pontuação de risco (`score_fraude_modelo`) 
 * **Faixas 4 a 9 (Zona Cinzenta / Incerteza):** A incidência de fraude varia de forma gradual (0,31% na faixa 4, 0,57% na 5, 1,32% na 6, 1,96% na 7, 5,25% na 8 e 8,50% na 9), com incerteza mais evidente entre as faixas intermediárias (4 a 7) e sem um corte claro de decisão.
 * **Faixa 10:** Concentra a maior proporção de fraude (**21,41%** / 21,4%), deixando as faixas intermediárias mal delimitadas.
 
-**Imagem / Gráfico:** `[INSERIR CAMINHO DA IMAGEM/GRÁFICO — CALIBRAÇÃO DE SCORE]`
+**Gráfico:** [`[CALIBRAÇÃO DE SCORE]`](https://github.com/JATMF94/case_fraude_unipds/blob/17847997dcbe85789518969aa730d7a0d0c91fa4/assets/Gerac%CC%A7a%CC%83o%20de%20relato%CC%81rios%20do%20Data%20Studio%20-%2021_11_2026%2C%2016_23_Departamento_Tabela-2.png)
 
 ---
 
@@ -94,4 +94,3 @@ Com base nos achados anteriores, a apresentação define frentes prioritárias d
 * **Recalibrar o modelo e as regras:** Revisar as regras introduzidas na versão `cb_v2.3` e ajustar os pontos de corte nas faixas intermediárias de score.
 * **Próximos passos:** Alinhar cronograma e responsabilidades com os times de **Risco**, **Produto** e **Parcerias** para execução imediata.
 
-**Imagem / Gráfico:** `[INSERIR CAMINHO DA IMAGEM/GRÁFICO — PLANO DE AÇÃO]`[cite: 8]
