@@ -53,7 +53,7 @@ Esta seção detalha o comportamento da fraude por mercado de atuação, com foc
 
 **Gráfico (Geografia da Fraude):** [`[GEOGRAFIA DA FRAUDE]`](https://github.com/JATMF94/case_fraude_unipds/blob/61d85666c8ed8548cbcb3e7ca24bec679370cf01/assets/Gerac%CC%A7a%CC%83o%20de%20relato%CC%81rios%20do%20Data%20Studio%20-%2021_11_2026%2C%2016_23_Pa%CC%81gina%20sem%20ti%CC%81tulo_Tabela-2.png)
 
-**Gráfico (Foco Crítico — Brasil / Automotivo):** [`[CATEGORIA AUTOMOTIVA NO BRASIL]`] https://github.com/JATMF94/case_fraude_unipds/blob/17847997dcbe85789518969aa730d7a0d0c91fa4/assets/Gerac%CC%A7a%CC%83o%20de%20relato%CC%81rios%20do%20Data%20Studio%20-%2021_11_2026%2C%2016_23_Pa%CC%81gina%20sem%20ti%CC%81tulo_Gra%CC%81fico%20de%20linhas-3.png
+**Gráfico (Foco Crítico — Brasil / Automotivo):**  [[`[Fraude no Mercado Brasileiro]`](https://github.com/JATMF94/case_fraude_unipds/blob/8db7c18ad71171e2a2f657e3ac312aaf6ace3b5d/assets/Gerac%CC%A7a%CC%83o%20de%20relato%CC%81rios%20do%20Data%20Studio%20-%2021_11_2026%2C%2016_23_Gra%CC%81fico%20de%20linhas-2.png)
 
 ---
 
